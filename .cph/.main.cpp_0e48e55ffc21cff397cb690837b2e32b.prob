@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\gupta\\OneDrive\\Desktop\\Projects\\Database\\main.cpp","tests":[{"id":1732361739884,"input":"    SELECT    *   FROM     A;    \n\ne;","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\gupta\\OneDrive\\Desktop\\Projects\\Database\\main.cpp","group":"local","local":true}
