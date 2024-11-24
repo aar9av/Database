@@ -37,7 +37,7 @@ int main() {
     cout << "Exit: Press e" << endl << endl;
     string query;
     while(true) {
-        cout << "Query: ";
+        cout << "Query: " << endl;
         getline(cin, query);
 
         vector<string> tokens = Algorithms::trimAndSplit(query);
